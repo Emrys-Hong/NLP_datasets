@@ -27,3 +27,17 @@ a collection of named entity recognition datasets as I am reading along papers
 ### English
  * [CONLL2003](https://github.com/davidsbatista/NER-datasets/tree/master/CONLL2003)
  * [W-NUT2017](https://github.com/leondz/emerging_entities_17) Workshop on Noisy User-generated Text: Emerging and Rare entity recognition
+
+###[Voxel dataset](https://figshare.com/articles/VoxEL/6539675)
+```
+rVoxEL-de.ttl
+rVoxEL-en.ttl
+rVoxEL-es.ttl
+rVoxEL-fr.ttl
+rVoxEL-it.ttl
+sVoxEL-de.ttl
+sVoxEL-en.ttl
+sVoxEL-es.ttl
+sVoxEL-fr.ttl
+sVoxEL-it.ttl
+```
