@@ -28,7 +28,7 @@ a collection of named entity recognition datasets as I am reading along papers
  * [CONLL2003](https://github.com/davidsbatista/NER-datasets/tree/master/CONLL2003)
  * [W-NUT2017](https://github.com/leondz/emerging_entities_17) Workshop on Noisy User-generated Text: Emerging and Rare entity recognition
 
-###[Voxel dataset](https://figshare.com/articles/VoxEL/6539675)
+### [Voxel dataset](https://figshare.com/articles/VoxEL/6539675)
 ```
 rVoxEL-de.ttl
 rVoxEL-en.ttl
@@ -41,3 +41,4 @@ sVoxEL-es.ttl
 sVoxEL-fr.ttl
 sVoxEL-it.ttl
 ```
+### [available datasets for ner](https://towardsdatascience.com/deep-learning-for-ner-1-public-datasets-and-annotation-methods-8b1ad5e98caf)
