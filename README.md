@@ -51,4 +51,7 @@ sVoxEL-it.ttl
 
 ### [south and south east asian languages(indian languages)](http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5)
 
+### [Germeval 2014](https://sites.google.com/site/germeval2014ner/data)
+
+### [general datasets on different languages(including NER](https://dkpro.github.io/dkpro-core/releases/1.9.0/docs/dataset-reference.html#_da)
 
