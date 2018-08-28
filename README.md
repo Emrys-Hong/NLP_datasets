@@ -41,4 +41,9 @@ sVoxEL-es.ttl
 sVoxEL-fr.ttl
 sVoxEL-it.ttl
 ```
-### [available datasets for ner](https://towardsdatascience.com/deep-learning-for-ner-1-public-datasets-and-annotation-methods-8b1ad5e98caf)
+### [available datasets for ner medium](https://towardsdatascience.com/deep-learning-for-ner-1-public-datasets-and-annotation-methods-8b1ad5e98caf)
+
+### [indian languages](http://au-kbc.org/nlp/NER-FIRE2013/)
+
+### [cross lingual named entity recognition for eng and french)[https://github.com/senisioi/clwe-ner]
+
