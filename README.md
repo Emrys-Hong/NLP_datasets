@@ -45,5 +45,10 @@ sVoxEL-it.ttl
 
 ### [indian languages](http://au-kbc.org/nlp/NER-FIRE2013/)
 
-### [cross lingual named entity recognition for eng and french)[https://github.com/senisioi/clwe-ner]
+### [cross lingual named entity recognition for eng and french][https://github.com/senisioi/clwe-ner]
+
+### [wikigold for english](https://github.com/pritishuplavikar/Resume-NER)
+
+### [south and south east asian languages(indian languages)](http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5)
+
 
