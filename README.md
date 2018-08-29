@@ -1,6 +1,10 @@
 # NER_datasets
 a collection of named entity recognition datasets as I am reading along papers
 
+## [coNLL 2003 english](https://github.com/synalp/NER/tree/master/corpus/CoNLL-2003)
+## [coNLL 2003 German](cannot give u)
+## [coNLL 2002 Dutch and espanol](https://github.com/teropa/nlp/tree/master/resources/corpora/conll2002)
+
 ## [openNER datasets](http://www.opener-project.eu/project/performance/)
 ![dataset name](https://github.com/Emrys-Hong/NER_datasets/blob/master/openNER.png)
 
